@@ -136,7 +136,10 @@ function binarySearch(node, target) {
   //if target equals the node value, return true
 //else if the target is greater than the node.value then your node now equals the left child
 //else your node equals left child
-//return false
+//return fals
+//I beleive the run time for this function is O(N) because of the while-loop.
+
+
 
 
 
